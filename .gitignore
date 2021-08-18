@@ -18,5 +18,9 @@
 /phpunit.xml
 .phpunit.result.cache
 ###< phpunit/phpunit ###
-/.env
-/.env.test
+.env
+.env.test
+
+.idea/
+.vscode/
+*.sw*
